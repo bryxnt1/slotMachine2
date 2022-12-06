@@ -1,0 +1,85 @@
+h1 {
+    text-align: center;
+    color: blue;    
+    background-color: blue;
+    border: 5px;
+    border-radius: 5px;
+    background-size: 25px;
+    animation: changecolors 3s alternate infinite;  
+    font-family: 'Bebas Neue', cursive;
+
+}
+.box {
+    background-color: rgb(255, 255, 255);
+    width: 150px;
+    height: 150px;
+    border: 5px solid blue;
+    border-radius: 10px;
+    flex-direction: row;
+    margin: 10px;
+    background-size: contain; 
+    animation: changecolors 3s alternate infinite;
+}
+
+.i {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
+
+.btn  {
+display: flex;
+justify-content: center;
+
+
+}
+
+button {
+    background-color: blue;
+    animation: changecolors 3s alternate infinite;
+    font-family: 'Bebas Neue', cursive;
+    height: 50px;
+    width: 100px;
+}
+
+body {
+    background-color: grey;
+    background-image: url();
+}
+
+#displayWinner {
+    color: white;
+    font-size: 100px;
+    font-family: 'Bebas Neue', cursive;
+    margin: 200px, 0px, 0px, 0px;
+    justify-content: center;
+    text-align: center;
+    animation:  changedw 3s alternate infinite;
+}
+
+@keyframes changecolors {
+    0% {color:  white;}
+    50%{color: rgb(red, green, blue)}
+    100%{color: gold;}
+}
+
+@keyframes changedw {
+    0% {color:  white; font-size: 25px;}
+    50%{color: rgb(red, green, blue)}
+    100%{color: gold; font-size: 75px;}}
+
+#btn {
+    margin-right: 25px;
+}
+
+#reset {
+margin-left: 25px;
+    }
+
+#list {
+     text-align: center;   
+    animation: changecolors 3s alternate infinite;  
+    font-family: 'Bebas Neue', cursive;
+
+}
