@@ -27,7 +27,8 @@ this game is also addicting so be careful.
 
 ## Screenshots
 
-![App Screenshot](https://ibb.co/s1VyVXV)
+![App Screenshot](./winscreen1.png)
+![App Screenshot](./base.png)
 
 
 
