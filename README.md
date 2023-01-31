@@ -27,8 +27,8 @@ this game is also addicting so be careful.
 
 ## Screenshots
 
-![App Screenshot](./symsbols/winscreen1.png)
-![App Screenshot](./symbols/base.png)
+![App Screenshot](./symsbols./winscreen1.png)
+![App Screenshot](./symbols./base.png)
 
 
 
