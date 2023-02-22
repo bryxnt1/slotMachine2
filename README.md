@@ -27,8 +27,7 @@ this game is also addicting so be careful.
 
 ## Screenshots
 
-![App Screenshot](./slot-machine-project/symsbols/winscreen1.png)
-![App Screenshot](./slot-machine-project/symbols/base.png)
+![App Screenshot](symbols/Screenshot%202023-02-21%20at%208.29.11%20PM.png)
 
 
 
